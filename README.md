@@ -33,11 +33,3 @@ This project is a simple implementation of the classic Tic-Tac-Toe game where tw
 ## Credits
 
 This project was created by Akash Gupta. It is based on a tutorial by Shradha Dii, with modifications and enhancements made for educational purposes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the README file further based on your preferences and additional project details.
